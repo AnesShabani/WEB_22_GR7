@@ -1,0 +1,22 @@
+body{
+   height: 1000px;
+}
+
+
+.section123{
+    float: left;
+    text-align: center ;
+    color: black;
+    
+}
+
+#id2{
+    float: left;
+    
+}
+
+img{
+   height: 500px;
+   width: 250;
+   
+}
